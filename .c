@@ -1,9 +1,9 @@
-/*Name:Sabina Prajapati
+/*Name:Sushant Aryal
 Subject:Programming Fundamental
 Program:Write a program to use the logical operators,take avalue from the user and store it any variable
-Lab No:
-Roll No:
-Date:
+Lab No:10
+Roll No:41
+Date:2016/11/7
 */
 #include<stdio.h>
 #include<conio.h>
