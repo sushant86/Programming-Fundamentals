@@ -1,4 +1,4 @@
-/*Name:Sabina Prajapati
+/*Name:sushant aryal
 Subject:Programming Fundamental
 Program:Write a program to use the logical operators,take avalue from the user and store it any variable
 Lab No:
