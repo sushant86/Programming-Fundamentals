@@ -1,8 +1,8 @@
 /*
-Author : Bijay Shah
+Author : sushant aryal
 Subject : Programming Fundamentals
 Roll no :
-Lab Sheet NO : 15
+Lab Sheet NO : 41
 Program : Write a menu based C program with various programs
 Date : December 28 , 2016
 */
