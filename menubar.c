@@ -1,8 +1,8 @@
 /*
-name:sabina prajapati
+name:sushant aryal
 program:
 subject:programming fundamental
-roll no:29
+roll no:41
 date:21/12/2016
 */
 #include<stdio.h>
